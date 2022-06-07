@@ -2,9 +2,10 @@
 1. discuss the different grouping to see whether it's appliable like below (seperated by region):
 <img width="1022" alt="Screenshot 2022-06-07 at 3 40 44 PM" src="https://user-images.githubusercontent.com/61338647/172408809-9c39da5e-f6db-4d6c-8108-e488c227a006.png">
 <img width="1025" alt="Screenshot 2022-06-07 at 3 42 52 PM" src="https://user-images.githubusercontent.com/61338647/172409312-3fe0dbcb-3d96-4c69-8e3c-62cb941c00a9.png">
-2. clearify the goals and expection they want from us (do you think we could ask another meeting with the partenrs)  
-3. the big picture of model plan is providing as below (including question):
+2. Clarify the goals and expectations from BoE in term's of findings/deliverable in the project, from us (do you think we could ask another meeting with the partner)  
+3. the big picture of model plan is provided as below (including questions):
     - Future Risk
+4. Concern about complexity of the project -- Computational & time. 
 
 
 ## Inputs
