@@ -4,9 +4,10 @@
 <img width="1025" alt="Screenshot 2022-06-07 at 3 42 52 PM" src="https://user-images.githubusercontent.com/61338647/172409312-3fe0dbcb-3d96-4c69-8e3c-62cb941c00a9.png">
 2. Clarify the goals and expectations from BoE in term's of findings/deliverable in the project, from us (do you think we could ask another meeting with the partner)  
 3. the big picture of model plan is provided as below (including questions):
-    - Future Risk
+    - exact date extracting & information loss
+    - Future Risk output
+    - if the whole (benchmarking) model is robutness
 4. Concern about complexity of the project -- Computational & time. 
-
 
 ## Inputs
 - Earning’s Call transcripts for each insurer
@@ -60,12 +61,17 @@ Relationship between topic & sentiment and Stock Price
     
 ### What we want to discover:
 ![WhatsApp Image 2022-05-31 at 6 27 58 PM](https://user-images.githubusercontent.com/61338647/172404147-2faa065c-f017-42d6-b599-35a218c4582c.jpeg)
-#### 1. Sentiment Analysis
-#### 2. Common (Previously) Risk
-#### 3. Future Risk
-4. Topic Importance 
-    - Across groups, year
-
+1. Sentiment Analysis
+    - each topic will be repesente by groups and to see those topic's sentiment score sum
+2. Common (Previously) Risk
+    - using regression to see if that's significant or not 
+    - with the x of sentiment score and y of stock price changing
+    - each sentence with the sentiment score & exact date time will be the datapoint
+    - would also take the frequency of topic into consideration (is it important for the company and the market)
+3. Future Risk
+    - Topic Importance and Across groups, year
+    - will visualize it and detect the trend 
+    - should we built the model or any method we could use for prediction?
 
 
 
