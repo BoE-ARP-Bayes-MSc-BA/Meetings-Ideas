@@ -1,4 +1,9 @@
 # Jun 8 Meeting Agenda
+1. discuss the different grouping to see whether it's appliable like below:
+<img width="1022" alt="Screenshot 2022-06-07 at 3 40 44 PM" src="https://user-images.githubusercontent.com/61338647/172408809-9c39da5e-f6db-4d6c-8108-e488c227a006.png">
+<img width="1025" alt="Screenshot 2022-06-07 at 3 42 52 PM" src="https://user-images.githubusercontent.com/61338647/172409312-3fe0dbcb-3d96-4c69-8e3c-62cb941c00a9.png">
+
+
 
 ## Inputs
 - Earning’s Call transcripts for each insurer
@@ -11,7 +16,9 @@
 ## Pipeline
 ### The PDF-transformed dataframe we would get after pre-processing:
 1. Note that the participant and participant_title will extract from the whole meeting and give the label of eaach sentences (just like method 2: Topic Modelling does)
-2. Currently would only doing on the Python as dataframe to test on a small MVP, but the whole dataset would using database to manage
+2. note that the PDF format is not consistent, so if participant_title is not shown, would us the frequency of the participant shown in the meeting to replace
+3. Currently would only doing on the Python as dataframe to test on a small MVP, but the whole dataset would using database to manage
+4. the data-cleaning part could be seen inside the [repo](https://github.com/BoE-ARP-Bayes-MSc-BA/data_collecting)
 
 #### Mthhod 1: Find Date & Time (*with specific sentence*)
 1. will seperate the sentences by the stopping words (especiallly dot)
