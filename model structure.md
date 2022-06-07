@@ -73,7 +73,25 @@ Relationship between topic & sentiment and Stock Price
     - will visualize it and detect the trend 
     - should we built the model or any method we could use for prediction?
 
+# **An Exploratory Study of Stock Price Movements from Earnings Calls**
 
+[****Doing Well by Talking Good: A Topic Modelling-Assisted Discourse Study of Corporate Social Responsibility****](https://www.notion.so/Doing-Well-by-Talking-Good-A-Topic-Modelling-Assisted-Discourse-Study-of-Corporate-Social-Responsib-9fdd249c34014370b347d6cf81ff9aec)
+
+[****Sentiment Analysis for Trading with Reddit Text Data****](https://www.notion.so/Sentiment-Analysis-for-Trading-with-Reddit-Text-Data-51fcccc0c425487b842a56d719b65bc6)
+
+[Textual Analysis of Stock Market PredictionUsing Breaking Financial News: The AZFinText System](https://www.notion.so/Textual-Analysis-of-Stock-Market-PredictionUsing-Breaking-Financial-News-The-AZFinText-System-fafc1ebe64f04a749837c92c851fa14c)
+
+[NLP for Stock Market Prediction with Reddit Data](https://www.notion.so/NLP-for-Stock-Market-Prediction-with-Reddit-Data-b9cf4fb634d54a39b699cc7629090e54)
+
+[Big Data and Machine Learning in Quantitative Investment](https://www.notion.so/Big-Data-and-Machine-Learning-in-Quantitative-Investment-57895c9d0bb24c5fb4a5365ae83d1a74)
+
+[Analyst Information Discovery and Interpretation Roles](https://www.notion.so/Analyst-Information-Discovery-and-Interpretation-Roles-51c2b9e8883e4bd2947cf865fb9f560a)
+
+[Natural language based financial forecasting: a survey
+](https://www.notion.so/Natural-language-based-financial-forecasting-a-survey-7db2d987f5e24ba29ceffb5a46ef4b61)
+
+[Deep Learning for Stock Market Prediction Using Event Embedding and Technical Indicators
+](https://www.notion.so/Deep-Learning-for-Stock-Market-Prediction-Using-Event-Embedding-and-Technical-Indicators-92be960c68ab481da952824e20e1f14e)
 
 
 
