@@ -73,7 +73,12 @@ Relationship between topic & sentiment and Stock Price
     - will visualize it and detect the trend 
     - should we built the model or any method we could use for prediction?
 
-# **An Exploratory Study of Stock Price Movements from Earnings Calls**
+
+## Research 
+[## notion Page](https://www.notion.so/matheusmaciel/Research-Summary-and-Guide-9ef62d43d95d4f2e96ed269049c85d50)
+
+
+[****An Exploratory Study of Stock Price Movements from Earnings Calls****]([https://www.notion.so/Doing-Well-by-Talking-Good-A-Topic-Modelling-Assisted-Discourse-Study-of-Corporate-Social-Responsib-9fdd249c34014370b347d6cf81ff9aec](https://tinyurl.com/27jdd4fn))
 
 [****Doing Well by Talking Good: A Topic Modelling-Assisted Discourse Study of Corporate Social Responsibility****](https://www.notion.so/Doing-Well-by-Talking-Good-A-Topic-Modelling-Assisted-Discourse-Study-of-Corporate-Social-Responsib-9fdd249c34014370b347d6cf81ff9aec)
 
