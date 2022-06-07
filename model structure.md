@@ -1,7 +1,17 @@
-## Jun 8 Meeting Agenda
+# Jun 8 Meeting Agenda
 
-
-### The dataframw we would get after pre-processing:
+## Inputs
+- Earning’s Call transcripts for each insurer
+    - 2011-2021
+    - PDF format
+- Stock price for each insurer
+    - Daily
+*currently we didn't take news, bond interest and inflation rate (to denoise the stock price) into considerationm, but if time premit we could*
+    
+## Pipeline
+### The PDF-transformed dataframe we would get after pre-processing:
+1. Note that the participant and participant_title will extract from the whole meeting and give the label of eaach sentences (just like method 2: Topic Modelling does)
+2. Currently would only doing on the Python as dataframe to test on a small MVP, but the whole dataset would using database to manage
 
 #### Mthhod 1: Find Date & Time (*with specific sentence*)
 1. will seperate the sentences by the stopping words (especiallly dot)
@@ -32,3 +42,26 @@
 |-----|-----|-----|-----|
 | Well 2014 for us was quite a good year, I would say. As you can see, we managed to increase the after-tax earnings of the group by more than 10%, and as this has been driven by strong underlying earnings from all segments, so that we could continue with our rather conservative policy when it comes to the reserves, be it on the P&C side or be it on the Life & Health side. | Life & Health | +1 | +3 |
 | ...... | ...... | ...... | ...... | ...... | ...... |
+
+### Apply data to the model
+Relationship between topic & sentiment and Stock Price 
+    - Time-specific if date-time is available
+    - Regression
+    
+### What we want to discover:
+![WhatsApp Image 2022-05-31 at 6 27 58 PM](https://user-images.githubusercontent.com/61338647/172404147-2faa065c-f017-42d6-b599-35a218c4582c.jpeg)
+#### 1. Sentiment Analysis
+#### 2. Common (Previously) Risk
+#### 3. Future Risk
+4. Topic Importance 
+    - Across groups, year
+
+
+
+
+
+
+
+
+
+
