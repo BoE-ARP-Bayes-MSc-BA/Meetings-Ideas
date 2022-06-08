@@ -25,7 +25,7 @@
 3. Currently would only doing on the Python as dataframe to test on a small MVP, but the whole dataset would using database to manage
 4. the data-cleaning part could be seen inside the [repo](https://github.com/BoE-ARP-Bayes-MSc-BA/data_collecting)
 
-#### Mthhod 1: Find Date & Time (*with specific sentence*)
+#### Method 1: Find Date & Time (*with specific sentence*)
 1. will seperate the sentences by the stopping words (especiallly dot)
   - e.g “Last quarter…”, “In January…”
   - Extract only sections where dates are mentioned (Possible information loss?)
@@ -41,12 +41,12 @@
 | European (Re)Insurers | HNR1 GY | Well 2014 for us was quite a good year, I would say. As you can see, we managed to increase the after-tax earnings of the group by more than 10%, and as this has been driven by strong underlying earnings from all segments, so that we could continue with our rather conservative policy when it comes to the reserves, be it on the P&C side or be it on the Life & Health side. | Ulrich Wallin | CEO | 2014/01/01|
 | ...... | ...... | ...... | ...... | ...... | ...... |
   
-#### Mthhod 2: Topic Modelling (*with all the meeting*)
+#### Method 2: Topic Modelling (*with all the meeting*)
 1. would be like the relevant topic that shown as in the Bloomberg Terminal:
   - but we could control how many are the topics (to be general like 10 topics or 80 topics)
   - e.g CSR Concerns, Market Share, Rates, etc.
 
-#### Mthhod 3: Sentiment Analysis (*with specific sentence*)
+#### Method 3: Sentiment Analysis (*with specific sentence*)
 1. concern/outlook over each sentence
 2. could see the file in the [repo](https://github.com/BoE-ARP-Bayes-MSc-BA/Model)
 
