@@ -1,4 +1,4 @@
-# Meeting 2
+# Meeting 
 
 Tags: June 15, 2022
 
