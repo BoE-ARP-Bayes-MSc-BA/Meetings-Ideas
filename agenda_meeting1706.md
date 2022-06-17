@@ -51,3 +51,43 @@ Next Steps
 - Main topics of the meeting:
     1. Clarify goals and BoE expectations in terms of findings
     2. Show our current plan and progress
+
+# Post-meeting feedback 
+
+***Topic modelling***
+
+- Check *embedding models *
+    - Whether it can be applied in our case and if it's more accurate
+- Check research
+    - Systematic way for categorising topics and reducing subjectivity of the process
+
+***Sentiment Analysis***
+
+- test twitter data 
+    - To understand source of the problem (Low accuracy) 
+    - Whether it's due to the data or a potential probelm with the model 
+
+***Data preprocessing***
+
+- Research tense identification
+    - python package
+    - potential examples
+    
+
+### BoE meeting - structure/advice 
+
+**Submit tuesday** 
+
+**Structure:**
+- Objectives BoE presented 
+- Our approach and understanding of how to achieve these goals 
+- Our current progress
+    - Data we gathered (PDFs, Stock price)
+    - Topic Modelling 
+    - Sentiment Analysis
+    - What we aim to achieve
+     
+- Questions
+    - Lay out our questions clearly
+    - Leave time at the end for BoE
+  
